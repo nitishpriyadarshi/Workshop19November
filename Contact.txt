@@ -1,0 +1,9 @@
+{icici=[Contacts Details :---
+FirstName='nitish
+LastName='priyada
+Address='patna
+City='patna
+State='bihar
+PIN='00000
+PhoneNo='00980989
+EmailID='juhuig@]}
